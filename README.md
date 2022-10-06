@@ -1,4 +1,4 @@
-<h1 align="center">Hello there my friend</h1>
+<h1 align="center">Where are ya droppin</h1>
 
 ![](https://media.tenor.com/P98RZR_l9q4AAAAC/travis-scott-fire.gif)
 <h3 align="left">Connect with me:</h3>
