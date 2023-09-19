@@ -1,6 +1,9 @@
 <h1 align="center"></h1>
 
-![](https://media.tenor.com/P98RZR_l9q4AAAAC/travis-scott-fire.gif)
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQyNWp2bWR0anBzeW5lY2FsbzJ4NDlyY3I3ZjZmejU1MW9kang1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KpACNEh8jXK2Q/200.gif)
+<p><b></b></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fanda_ulrich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fanda_ulrich" height="30" width="40" /></a>
